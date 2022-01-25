@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
+  <img src="b72edb404c32685fe9f685b706f404ad.gif" alt="">
 <hr>
 
   <h1>Hi 👋 , I'm Daniel Kitanaxi Filipe</h1>
