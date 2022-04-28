@@ -2,8 +2,8 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="">
 <hr>
 
-  <h1>Ola 👋 , eu sou o Daniel Kitanaxi Filipe</h1>
-  <h4>But I'm known by Daniel Filipe</h4>
+  <h1>Ola 👋 , eu sou o Daniel Quingongo Kitanaxi Filipe</h1>
+  <h4>Mas eu sou conhecido por Daniel Filipe</h4>
   <p>Desenvolvedor Font-end, Game Developer e Graphic Designer com um auto conhecimento 
 em Html,CSS, Bootstrap com mais de 5 anos de experiência exercendo a função de Front-end.
 Desenvolvo jogos digitais á 4 anos usando a Engine Unity e a linguagem de programação C#, e
