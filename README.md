@@ -2,7 +2,7 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="">
 <hr>
 
-  <h1>Hi 👋 , I'm Daniel Kitanaxi Filipe</h1>
+  <h1>Ola 👋 , eu sou o Daniel Kitanaxi Filipe</h1>
   <h4>But I'm known by Daniel Filipe</h4>
   <p>Desenvolvedor Font-end, Game Developer e Graphic Designer com um auto conhecimento 
 em Html,CSS, Bootstrap com mais de 5 anos de experiência exercendo a função de Front-end.
@@ -16,8 +16,8 @@ tem que conversar e interagir com o usuário final.
 Como Desenvolvedor de Jogos digitais que no qual eu sou apaixonado, amo a ideia de criar um mundo onde as 
 pessoas podem viver uma história e se divertir em um outro mundo.
   </p>
-  
-  <h2>My skills</h2>
+
+  <h2>Minhas hablidades</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
@@ -35,7 +35,7 @@ pessoas podem viver uma história e se divertir em um outro mundo.
     </a>
   </div>
  
-  <h2>My social networks</h2>
+  <h2>Minhas Redes Sociais</h2>
 <a href="https://www.facebook.com/profile.php?id=100050680572102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a> 
 <a target="_blank" href="https://www.instagram.com/danielfilipe7387/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> 
 <a target="_blank" href="https://www.behance.net/danielfilipw"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
