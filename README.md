@@ -4,8 +4,18 @@
 
   <h1>Hi 👋 , I'm Daniel Kitanaxi Filipe</h1>
   <h4>But I'm known by Daniel Filipe</h4>
-  <p>A little about me, I'm a Web Designer and Digital Games Developer, I'm from Angola, luanda province and I work with
-    website development and I have a youtube channel where I talk about game development. seems kind of childish but i want to conquer the world</p>
+  <p>Desenvolvedor Font-end, Game Developer e Graphic Designer com um auto conhecimento 
+em Html,CSS, Bootstrap com mais de 5 anos de experiência exercendo a função de Front-end.
+Desenvolvo jogos digitais á 4 anos usando a Engine Unity e a linguagem de programação C#, e
+tenho um canal no Youtube "Daniel" onde eu apresento o meu progresso e falo sobre os jogos 
+que já desenvolvi.
+</p>
+  <p>
+  Como Front-end gosto de um bom Design e UX, e melhorar a experiência do usuário, porque a interface 
+tem que conversar e interagir com o usuário final.
+Como Desenvolvedor de Jogos digitais que no qual eu sou apaixonado, amo a ideia de criar um mundo onde as 
+pessoas podem viver uma história e se divertir em um outro mundo.
+  </p>
   
   <h2>My skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
