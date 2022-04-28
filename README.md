@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="capa.png" alt="">
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="">
 <hr>
 
   <h1>Hi 👋 , I'm Daniel Kitanaxi Filipe</h1>
