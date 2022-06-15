@@ -2,19 +2,19 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="">
 <hr>
 
-  <h1>Ola 👋 , eu sou o Daniel Quingongo Kitanaxi Filipe</h1>
-  <h4>Mas eu sou conhecido por Daniel Filipe</h4>
-  <p>Desenvolvedor Font-end, Game Developer e Graphic Designer com um auto conhecimento 
-em Html,CSS, Bootstrap com mais de 5 anos de experiência exercendo a função de Front-end.
-Desenvolvo jogos digitais á 4 anos usando a Engine Unity e a linguagem de programação C#, e
-tenho um canal no Youtube "Daniel" onde eu apresento o meu progresso e falo sobre os jogos 
-que já desenvolvi.
+  <h1>Hello 👋 , I am Daniel Quingongo Kitanaxi Filipe</h1>
+  <h4>But I am known as Daniel Filipe</h4>
+  <p>Front-end Developer, Game Developer, and Graphic Designer with self-knowledge 
+in Html, CSS, React.js, Sass, and Bootstrap with over 5 years of experience working as a Front-end.
+I have been developing digital games for 4 years using Unity Engine and C# programming language, and
+I have a Youtube channel "Daniel" where I present my progress and talk about the games 
+games that I have developed.
 </p>
   <p>
-  Como Front-end gosto de um bom Design e UX, e melhorar a experiência do usuário, porque a interface 
-tem que conversar e interagir com o usuário final.
-Como Desenvolvedor de Jogos digitais que no qual eu sou apaixonado, amo a ideia de criar um mundo onde as 
-pessoas podem viver uma história e se divertir em um outro mundo.
+  As a Front-end, I like to have a good design and UX, and improve the user experience because the interface 
+has to talk and interact with the end-user.
+As a Digital Game Developer which I am passionate about, I love the idea of creating a world where 
+people can live a story and have fun in another world.
   </p>
 
   <h2>Minhas hablidades</h2>
@@ -35,7 +35,7 @@ pessoas podem viver uma história e se divertir em um outro mundo.
     </a>
   </div>
  
-  <h2>Minhas Redes Sociais</h2>
+  <h2>My Social Networks</h2>
 <a href="https://www.facebook.com/profile.php?id=100050680572102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a> 
 <a target="_blank" href="https://www.instagram.com/danielfilipe7387/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> 
 <a target="_blank" href="https://www.behance.net/danielfilipw"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
