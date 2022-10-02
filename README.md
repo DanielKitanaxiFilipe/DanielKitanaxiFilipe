@@ -4,20 +4,10 @@
 
   <h1>Hello 👋 , I am Daniel Quingongo Kitanaxi Filipe</h1>
   <h4>But I am known as Daniel Filipe</h4>
-  <p>Front-end Developer, Game Developer, and Graphic Designer with self-knowledge 
-in Html, CSS, React.js, Sass, and Bootstrap with over 5 years of experience working as a Front-end.
-I have been developing digital games for 4 years using Unity Engine and C# programming language, and
-I have a Youtube channel "Daniel" where I present my progress and talk about the games 
-games that I have developed.
-</p>
-  <p>
-  As a Front-end, I like to have a good design and UX, and improve the user experience because the interface 
-has to talk and interact with the end-user.
-As a Digital Game Developer which I am passionate about, I love the idea of creating a world where 
-people can live a story and have fun in another world.
-  </p>
+  <p>I am a software developer with a passion for creating great user experiences that are accessible and responsive.</p>
 
-  <h2>Minhas hablidades</h2>
+
+  <h2>My skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
