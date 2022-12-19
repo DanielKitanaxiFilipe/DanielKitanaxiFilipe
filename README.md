@@ -3,8 +3,10 @@
 <hr>
 
   <h1>Hello 👋 , I am Daniel Quingongo Kitanaxi Filipe</h1>
-  <h4>But I am known as Daniel Filipe</h4>
-  <p>I am a software developer with a passion for creating great user experiences that are accessible and responsive.</p>
+  <h6>Hi! Pleasure ! 👋🏿</h6>
+  <p>I am a developer with a twinkle in my eye, always looking for the next level, and striving to bring relevant issues to the community and learn new technologies.</p>
+ <p>I am passionate about creating good quality and useful products for users, currently, I have 6 years in development and I am improving myself both in technical and team leadership skills.</p>
+<p>Some of my goals are to have continued growth, impact people's lives, and build good-quality interfaces.</p>
 
 
   <h2>My skills</h2>
