@@ -2,7 +2,7 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="">
 <hr>
 
-  <h1>Hello 👋 , I am Daniel Quingongo Kitanaxi Filipe</h1>
+  <h1>Hello 👋🏿 , I am Daniel Quingongo Kitanaxi Filipe</h1>
   <h6>Hi! Pleasure ! 👋🏿</h6>
   <p>I am a developer with a twinkle in my eye, always looking for the next level, and striving to bring relevant issues to the community and learn new technologies.</p>
  <p>I am passionate about creating good quality and useful products for users, currently, I have 6 years in development and I am improving myself both in technical and team leadership skills.</p>
