@@ -4,9 +4,11 @@
 
   <h1>Hello 👋🏿 , I am Daniel Quingongo Kitanaxi Filipe</h1>
   <h6>Hi! Pleasure ! 👋🏿</h6>
-  <p>I am a developer with a twinkle in my eye, always looking for the next level, and striving to bring relevant issues to the community and learn new technologies.</p>
- <p>I am passionate about creating good quality and useful products for users, currently, I have 6 years in development and I am improving myself both in technical and team leadership skills.</p>
-<p>Some of my goals are to have continued growth, impact people's lives, and build good-quality interfaces.</p>
+  <p>👋 Hello! I'm Daniel, a passionate developer with 6 years of experience in various fields, including front-end development, web design, and Unity development. I am constantly seeking new challenges and learning innovative technologies to deliver high-quality products and positively impact people's lives.</p>
+<p>💻 My skills span a wide range of technologies, including HTML, CSS, JavaScript, React.js, Vue.js, REST APIs, Bootstrap, Node.js, TypeScript, C#, Unity, and more. I have a strong focus on creating intuitive, responsive, and visually appealing interfaces for both web applications and games.</p>
+<p>🌟 In addition to my technical expertise, I am a natural leader and have experience in coordinating and mentoring teams. I excel in setting development goals and deadlines, participating in project planning meetings, and client presentations.</p>
+<p>🚀 I am a lifelong learner and always strive to enhance my skills and knowledge. I am open to exciting collaborations and challenging projects that allow me to expand my skill set.</p>
+<p>🌐 Let's build amazing web solutions, high-quality interfaces, or create engaging gaming experiences together! Explore my repositories and get in touch to discuss ideas, collaboration opportunities, or any other exciting project.</p>
 
 
   <h2>My skills</h2>
