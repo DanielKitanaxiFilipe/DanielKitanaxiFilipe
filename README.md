@@ -5,7 +5,7 @@
   <h1>Hello 👋🏿 , I am Daniel Quingongo Kitanaxi Filipe</h1>
   <h1>Hi! Pleasure ! 👋🏿</h1>
   <p>👋 Hello! I'm Daniel, a passionate developer with 6 years of experience in various fields, including front-end development, web design, and Unity development. I am constantly seeking new challenges and learning innovative technologies to deliver high-quality products and positively impact people's lives.</p>
-<p>💻 My skills span a wide range of technologies, including HTML, CSS, JavaScript, React.js, Vue.js, REST APIs, Bootstrap, Node.js, TypeScript, C#, Unity, and more. I have a strong focus on creating intuitive, responsive, and visually appealing interfaces for both web applications and games.</p>
+<p>💻 My skills span a wide range of technologies, including HTML, CSS, JavaScript, React.js, Bootstrap, C#, Unity, and more. I have a strong focus on creating intuitive, responsive, and visually appealing interfaces for both web applications and games.</p>
 <p>🌟 In addition to my technical expertise, I am a natural leader and have experience in coordinating and mentoring teams. I excel in setting development goals and deadlines, participating in project planning meetings, and client presentations.</p>
 <p>🚀 I am a lifelong learner and always strive to enhance my skills and knowledge. I am open to exciting collaborations and challenging projects that allow me to expand my skill set.</p>
 <p>🌐 Let's build amazing web solutions, high-quality interfaces, or create engaging gaming experiences together! Explore my repositories and get in touch to discuss ideas, collaboration opportunities, or any other exciting project.</p>
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="">
